@@ -1,0 +1,12 @@
+.product-form{
+    overflow: scroll;
+}
+
+form{
+    margin: 2% 7%;
+    padding: 0 0 3% 0; 
+}
+
+.form-group{
+    margin-bottom: 15px;
+}
